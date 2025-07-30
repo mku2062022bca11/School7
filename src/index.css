@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #10b981;
+  --color-primary-hover: #059669;
+  --color-primary-light: #d1fae5;
+  --color-primary-dark: #047857;
+}
+
+/* Dynamic theme classes */
+.theme-primary {
+  color: var(--color-primary) !important;
+}
+
+.theme-bg-primary {
+  background-color: var(--color-primary) !important;
+}
+
+.theme-bg-primary-hover:hover {
+  background-color: var(--color-primary-hover) !important;
+}
+
+.theme-bg-primary-light {
+  background-color: var(--color-primary-light) !important;
+}
+
+.theme-border-primary {
+  border-color: var(--color-primary) !important;
+}
+
+.theme-text-primary {
+  color: var(--color-primary) !important;
+}
+
+.theme-text-primary-dark {
+  color: var(--color-primary-dark) !important;
+}
+
+/* Focus ring colors */
+.focus\:theme-border-primary:focus {
+  border-color: var(--color-primary) !important;
+}
+
+.focus\:ring-theme-primary:focus {
+  --tw-ring-color: var(--color-primary) !important;
+}

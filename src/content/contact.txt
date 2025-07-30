@@ -1,0 +1,108 @@
+CONTACT INFORMATION
+===================
+
+Phone: +91 98765 43210
+Email: info@QB365 Public School.edu
+Address: 123 QB365 Public SchoolRoad, Nature Park, Cityname - 560001
+Website: www.QB365 Public School.edu
+
+OFFICE HOURS
+============
+
+Monday - Friday: 8:00 AM - 5:00 PM
+Saturday: 8:00 AM - 1:00 PM
+Sunday: Closed
+
+Response Time: We'll respond within 24 hours
+
+CONTACT METHODS
+===============
+
+Phone:
+- Description: Mon - Fri, 8:00 AM - 5:00 PM
+- Icon: Phone
+
+Email:
+- Description: We'll respond within 24 hours
+- Icon: Mail
+
+Address:
+- Description: Visit us anytime
+- Icon: MapPin
+
+Office Hours:
+- Description: Closed on Sundays
+- Icon: Clock
+
+CONTACT FORM FIELDS
+===================
+
+Personal Information:
+- Full Name (required)
+- Phone Number (required)
+- Email Address (required)
+
+Inquiry Details:
+- Subject (required) - Options:
+  * Admission Inquiry
+  * Academic Information
+  * Infrastructure Query
+  * Transportation
+  * Fee Structure
+  * Other
+- Message (required)
+
+LOCATION DETAILS
+================
+
+Map Information:
+- School Location: QB365 Public School, Nature Park, Cityname
+- Landmark: Near Nature Park
+- Accessibility: Easy access by public transport
+
+Directions:
+- Located in the heart of Nature Park
+- Well-connected by road
+- Ample parking space available
+- Public transport connectivity
+
+FREQUENTLY ASKED QUESTIONS
+===========================
+
+School Timings:
+- Question: What are the school timings?
+- Answer: School timings are from 8:00 AM to 2:30 PM for all classes. Extended care is available until 5:00 PM.
+
+Transportation:
+- Question: Is transportation facility available?
+- Answer: Yes, we provide safe and reliable bus transportation covering various routes across the city with GPS tracking.
+
+Admission Process:
+- Question: What is the admission process?
+- Answer: The admission process includes application submission, document verification, entrance assessment, parent interview, and final confirmation.
+
+Scholarships:
+- Question: Are there any scholarship programs?
+- Answer: Yes, we offer merit-based scholarships and need-based financial assistance for deserving students.
+
+Activities:
+- Question: What extracurricular activities are offered?
+- Answer: We offer a wide range of activities including sports, music, dance, art, drama, science club, and environmental club.
+
+ADDITIONAL SERVICES
+===================
+
+Admission Counseling:
+- Available during office hours
+- Expert guidance for parents
+- Information about curriculum and facilities
+
+Campus Tours:
+- Scheduled visits available
+- Virtual tour options
+- Meet with faculty and staff
+
+Parent Meetings:
+- Regular parent-teacher conferences
+- Individual consultation available
+- Progress review sessions

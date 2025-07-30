@@ -1,0 +1,98 @@
+ADMISSION PROCESS
+=================
+
+Step 1 - Application Form:
+- Icon: 📝
+- Description: Submit online application form with required documents and photographs.
+
+Step 2 - Document Verification:
+- Icon: ✅
+- Description: Verification of academic records and other supporting documents.
+
+Step 3 - Entrance Assessment:
+- Icon: 📋
+- Description: Age-appropriate assessment for applicable grades and interaction session.
+
+Step 4 - Parent Interview:
+- Icon: 👥
+- Description: Personal interaction with parents and student to understand expectations.
+
+Step 5 - Admission Confirmation:
+- Icon: 🎓
+- Description: Fee payment and final admission confirmation with class allocation.
+
+FEE STRUCTURE
+=============
+
+Classes I-III:
+- Tuition Fee: ₹40,000
+- Other Fees: ₹8,000
+- Total Annual: ₹48,000
+
+Classes IV-V:
+- Tuition Fee: ₹45,000
+- Other Fees: ₹9,000
+- Total Annual: ₹54,000
+
+Classes VI-VIII:
+- Tuition Fee: ₹50,000
+- Other Fees: ₹10,000
+- Total Annual: ₹60,000
+
+Classes IX-X:
+- Tuition Fee: ₹55,000
+- Other Fees: ₹12,000
+- Total Annual: ₹67,000
+
+Classes XI-XII:
+- Tuition Fee: ₹60,000
+- Other Fees: ₹15,000
+- Total Annual: ₹75,000
+
+Note: Fees are subject to annual revision. Additional charges may apply for transportation, meals, and extracurricular activities.
+
+REQUIRED DOCUMENTS
+==================
+
+- Birth certificate (original and photocopy)
+- Transfer certificate from previous school
+- Academic records of previous two years
+- Passport size photographs (6 copies)
+- Medical certificate and vaccination records
+- Address proof documents
+- Caste certificate (if applicable)
+- Income certificate (for fee concession)
+
+IMPORTANT DATES
+===============
+
+Application Opens: January 15, 2024
+Application Deadline: March 31, 2024
+Entrance Test: April 15, 2024
+Results Declaration: April 30, 2024
+
+ADMISSION FORM FIELDS
+====================
+
+Student Information:
+- Student Name (required)
+- Date of Birth (required)
+- Grade Applying For (required)
+
+Parent Information:
+- Parent/Guardian Name (required)
+- Email Address (required)
+- Phone Number (required)
+- Address (required)
+
+Additional Information:
+- Previous School (optional)
+- Additional Message (optional)
+
+Subject Options:
+- Admission Inquiry
+- Academic Information
+- Infrastructure Query
+- Transportation
+- Fee Structure
+- Other

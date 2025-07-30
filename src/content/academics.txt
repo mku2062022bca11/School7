@@ -1,0 +1,96 @@
+CBSE AFFILIATION
+================
+
+Affiliation Status: Affiliated to Central Board of Secondary Education, New Delhi
+School Code: 12345
+
+CURRICULUM SUBJECTS
+==================
+
+Mathematics:
+- Icon: 📊
+- Description: Comprehensive mathematical concepts with practical applications and problem-solving skills.
+
+Science:
+- Icon: 🔬
+- Description: Integrated approach to Physics, Chemistry, and Biology with hands-on experiments.
+
+English:
+- Icon: 📚
+- Description: Language and literature studies focusing on communication and critical thinking.
+
+Social Science:
+- Icon: 🌍
+- Description: History, Geography, Civics, and Economics with emphasis on current affairs.
+
+Environmental Studies:
+- Icon: 🌱
+- Description: Our signature program connecting students with nature and sustainability.
+
+Computer Science:
+- Icon: 💻
+- Description: Modern computing skills and programming fundamentals for digital literacy.
+
+CLASS-WISE SYLLABUS
+===================
+
+Classes I-V (Primary):
+- Description: Foundation years focusing on basic literacy, numeracy, and environmental awareness.
+- Subjects: English, Hindi, Mathematics, Environmental Studies, Computer Science, Art & Craft, Physical Education
+
+Classes VI-VIII (Middle School):
+- Description: Building strong academic foundations with introduction to specialized subjects.
+- Subjects: English, Hindi, Mathematics, Science, Social Science, Computer Science, Art Education, Physical Education
+
+Classes IX-X (Secondary):
+- Description: Comprehensive CBSE curriculum preparing students for board examinations.
+- Subjects: English, Hindi, Mathematics, Science, Social Science, Computer Applications, Physical Education
+
+Classes XI-XII (Senior Secondary):
+- Description: Specialized streams in Science with optional subjects for career preparation.
+- Subjects: English Core, Physics, Chemistry, Mathematics/Biology, Computer Science/Economics, Physical Education
+
+TEACHING METHODOLOGY
+====================
+
+Interactive Learning:
+- Description: Smart boards and multimedia presentations for engaging classroom experiences.
+
+Experiential Learning:
+- Description: Hands-on activities and real-world applications of theoretical concepts.
+
+Project-Based Learning:
+- Description: Collaborative projects that develop critical thinking and teamwork skills.
+
+Nature-Integrated Learning:
+- Description: Outdoor classrooms and environmental studies integrated across subjects.
+
+ACADEMIC CALENDAR
+=================
+
+School Reopening:
+- Date: April 1, 2024
+- Description: New academic session begins with orientation programs.
+
+First Term Examinations:
+- Date: September 15-30, 2024
+- Description: Mid-year assessments for all classes.
+
+Annual Sports Day:
+- Date: December 15, 2024
+- Description: Inter-house sports competitions and cultural events.
+
+Annual Examinations:
+- Date: March 1-20, 2025
+- Description: Final examinations and project submissions.
+
+Results Declaration:
+- Date: March 31, 2025
+- Description: Academic results and promotion to next class.
+
+ACADEMIC ACHIEVEMENTS
+====================
+
+Board Results: 95% - Average pass percentage
+Student Satisfaction: 98% - Happy students and parents
+Global Recognition: 5+ - International awards
