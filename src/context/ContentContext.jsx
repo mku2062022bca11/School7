@@ -1,16 +1,16 @@
 import React, { createContext, useContext, useState } from "react";
 
 const defaultContent = {
-  schoolName: "QB365 Public School",
+  schoolName: "Vivekananda Vidyalaya",
   tagline: "Nurturing Young Minds in Nature's Embrace",
   aboutText:
-    "QB365 Public School stands as a beacon of excellence in education, nestled in the heart of nature. We believe in holistic development of our students, combining academic rigor with environmental consciousness and character building. Our campus provides a serene learning environment where students can grow academically, socially, and emotionally.",
+    "Vivekananda Vidyalaya stands as a beacon of excellence in education, nestled in the heart of nature. We believe in holistic development of our students, combining academic rigor with environmental consciousness and character building. Our campus provides a serene learning environment where students can grow academically, socially, and emotionally.",
   vision:
     "To be a leading educational institution that nurtures environmentally conscious global citizens who excel academically and contribute positively to society.",
   mission:
     "Our mission is to provide quality education that combines academic excellence with environmental awareness, fostering critical thinking, creativity, and moral values in our students while preparing them for future challenges.",
   principalMessage:
-    "Welcome to QB365 Public School, where we nurture young minds to bloom like flowers in a garden. Our commitment to excellence in education, combined with our love for nature, creates an environment where students thrive academically, socially, and emotionally. We believe every child is unique and has the potential to achieve greatness.",
+    "Welcome to Vivekananda Vidyalaya, where we nurture young minds to bloom like flowers in a garden. Our commitment to excellence in education, combined with our love for nature, creates an environment where students thrive academically, socially, and emotionally. We believe every child is unique and has the potential to achieve greatness.",
   principalName: "Dr. Priya Sharma",
   management: [
     {
@@ -34,9 +34,9 @@ const defaultContent = {
   ],
   contactInfo: {
     phone: "+91 98765 43210",
-    email: "info@QB365 Public School.edu",
-    address: "123 QB365 Public SchoolRoad, Nature Park, Cityname - 560001",
-    website: "www.QB365 Public School.edu",
+    email: "info@Vivekananda Vidyalaya.edu",
+    address: "123 Vivekananda VidyalayaRoad, Nature Park, Cityname - 560001",
+    website: "www.Vivekananda Vidyalaya.edu",
   },
   academics: {
     cbseAffiliation:

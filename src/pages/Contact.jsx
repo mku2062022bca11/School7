@@ -293,7 +293,7 @@ const Contact = () => {
                   <div className="bg-white p-4 rounded-lg shadow-lg text-center">
                     <MapPin className="h-8 w-8 text-green-600 mx-auto mb-2" />
                     <p className="text-sm font-semibold text-gray-800">
-                      QB365 Public School
+                      Vivekananda Vidyalaya
                     </p>
                     <p className="text-xs text-gray-600">
                       Nature Park, Cityname

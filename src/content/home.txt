@@ -4,14 +4,14 @@ HOME PAGE
 HERO SECTION
 ============
 
-School Name: QB365 Public School
+School Name: Vivekananda Vidyalaya
 Tagline: Nurturing Young Minds in Nature’s Embrace
 
 Buttons:
 - Apply Now
 - Learn More
 
-WHY CHOOSE QB365 Public SchoolVALLEY?
+WHY CHOOSE Vivekananda VidyalayaVALLEY?
 =========================
 
 - CBSE Excellence: Comprehensive curriculum following CBSE guidelines with modern teaching methodologies.
@@ -23,7 +23,7 @@ ABOUT OUR SCHOOL
 ================
 
 Text:
-QB365 Public School stands as a beacon of excellence in education, nestled in the heart of nature. We believe in holistic development of our students, combining academic rigor with environmental consciousness and character building. Our campus provides a serene learning environment where students can grow academically, socially, and emotionally.
+Vivekananda Vidyalaya stands as a beacon of excellence in education, nestled in the heart of nature. We believe in holistic development of our students, combining academic rigor with environmental consciousness and character building. Our campus provides a serene learning environment where students can grow academically, socially, and emotionally.
 
 Button:
 - Read More
@@ -35,7 +35,7 @@ Name: Dr. Priya Sharma
 Position: Principal
 
 Message:
-Welcome to QB365 Public School, where we nurture young minds to bloom like flowers in a garden. Our commitment to excellence in education, combined with our love for nature, creates an environment where students thrive academically, socially, and emotionally. We believe every child is unique and has the potential to achieve greatness.
+Welcome to Vivekananda Vidyalaya, where we nurture young minds to bloom like flowers in a garden. Our commitment to excellence in education, combined with our love for nature, creates an environment where students thrive academically, socially, and emotionally. We believe every child is unique and has the potential to achieve greatness.
 
 EXPLORE OUR SCHOOL
 ===================
@@ -54,7 +54,7 @@ OUR ACHIEVEMENTS
 FOOTER INFO
 ===========
 
-Address: 123 QB365 Public SchoolRoad, Nature Park, Cityname – 560001
+Address: 123 Vivekananda VidyalayaRoad, Nature Park, Cityname – 560001
 Phone: +91 98765 43210
-Email: info@QB365 Public School.edu
+Email: info@Vivekananda Vidyalaya.edu
 Affiliation No: 1234567

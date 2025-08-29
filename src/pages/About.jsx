@@ -270,7 +270,7 @@ const About = () => {
             },
             {
               icon: Eye,
-              title: "QB365 Public SchoolSchool",
+              title: "Vivekananda VidyalayaSchool",
               year: "2022",
               description: "Environmental Initiative Award",
             },

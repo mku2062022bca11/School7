@@ -81,7 +81,7 @@ const Infrastructure = () => {
             Our Campus
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
-            Spread across 10 acres of lush QB365 Public Schoolcampus, our
+            Spread across 10 acres of lush Vivekananda Vidyalayacampus, our
             infrastructure combines modern technology with nature-friendly
             design to create an ideal learning environment.
           </p>

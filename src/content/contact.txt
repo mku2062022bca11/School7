@@ -2,9 +2,9 @@ CONTACT INFORMATION
 ===================
 
 Phone: +91 98765 43210
-Email: info@QB365 Public School.edu
-Address: 123 QB365 Public SchoolRoad, Nature Park, Cityname - 560001
-Website: www.QB365 Public School.edu
+Email: info@Vivekananda Vidyalaya.edu
+Address: 123 Vivekananda VidyalayaRoad, Nature Park, Cityname - 560001
+Website: www.Vivekananda Vidyalaya.edu
 
 OFFICE HOURS
 ============
@@ -56,7 +56,7 @@ LOCATION DETAILS
 ================
 
 Map Information:
-- School Location: QB365 Public School, Nature Park, Cityname
+- School Location: Vivekananda Vidyalaya, Nature Park, Cityname
 - Landmark: Near Nature Park
 - Accessibility: Easy access by public transport
 
